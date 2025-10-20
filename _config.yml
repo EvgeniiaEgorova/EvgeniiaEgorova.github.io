@@ -4,7 +4,3 @@ plugins:
 
 title: "My Personal Website"
 description: "Welcome to my page!"
-theme: minima
-author:
-  name: Your Name
-  email: your@email.com
